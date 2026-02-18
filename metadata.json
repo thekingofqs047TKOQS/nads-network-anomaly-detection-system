@@ -1,0 +1,8 @@
+{
+  "name": "NADS - Network Anomaly Detection System",
+  "description": "A comprehensive network monitoring and anomaly detection dashboard based on the University of Dodoma project, featuring real-time traffic analysis and AI-driven security insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
